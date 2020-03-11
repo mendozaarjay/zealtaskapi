@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeal.TaskApi", "Zeal.TaskApi\Zeal.TaskApi.csproj", "{31173053-B311-446D-B60D-82C5E78384C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31173053-B311-446D-B60D-82C5E78384C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31173053-B311-446D-B60D-82C5E78384C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31173053-B311-446D-B60D-82C5E78384C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31173053-B311-446D-B60D-82C5E78384C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC5ABF58-5D22-4DEF-8240-2EAAED01448F}
+	EndGlobalSection
+EndGlobal
